@@ -1,4 +1,4 @@
-def myvar="bhargav"
+
 pipeline{
         agent any
         stages{
